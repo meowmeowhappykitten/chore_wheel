@@ -1,0 +1,15 @@
+chores:
+  - CleanLitterBox:
+      description: "Scoop all of the solid pieces out, put new litter in, and take out the waste"
+      frequency: 7
+    Vacuum:
+      description: "Run the roomba and get all corners and shelves with the coordless vac"
+      frequency: 7
+    CleanWoodFloors:
+      description: "Swiffer the floors and let dry"
+      frequency: 14
+    CleanBathroom:
+      description: "Clean/Sanitize the toilet and wipe down the countertop and sink"
+      frequency: 7
+    DeepCleanBathroom:
+      description: "Wipe down the shower, clean and polish the countertop and sink"
